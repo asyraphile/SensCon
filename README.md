@@ -14,14 +14,16 @@ The code provided by you wil be used only to judge your development and time-man
 3. It is used to see what type of developer you are and how you think about things, within a limited timeframe given.
 4. Show your workings, step-by-step (git history); This will help a lot for us to evaluate you fairly.
 5. You may use any technologies you need and/or require, but please justify your choices in your closing comments.
-6. Please work out of the `src` directory as your root.
-7. Once you have completed your tech test, please fill out the `NOTES.md` with any closing comments you would like to add.
-8. If you use any of the following, or similar, technologies and/or tools, then please be sure to include instructions on getting your solution running:
- - composer
- - bower
- - npm
- - junit
- - phpunit
+6. Branch off `main` to a new branch for your test; `tech-test/your-gitlab-username`
+7. Please work out of the `src` directory as your root.
+8. Once you have completed your tech test, please fill out the `NOTES.md` with any closing comments you would like to add.
+9. Raise a Merge Request to `main`, denoting that your submission is final.
+10. If you use any of the following, or similar, technologies and/or tools, then please be sure to include instructions on getting your solution running:
+  * composer
+  * bower
+  * npm
+  * junit
+  * phpunit
 
 > There is no right or wrong way of completing this test
 
