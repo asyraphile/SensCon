@@ -1,5 +1,5 @@
-# Enviromet Technologies Sdn Bhd Technical Test
-Thank you for applying to be a developer at Enviromet Technologies Sdn Bhd!
+# Datanian Sdn Bhd Technical Test
+Thank you for applying to be a developer at Datanian Sdn Bhd!
 We are looking forward to have you onboard. However, before we can have a detailed conversation, we would like to evaluate your technical skills in order for us to understand you a bit better.
 
 This tech test will help us evaluate your skills.
